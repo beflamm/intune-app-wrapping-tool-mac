@@ -1,4 +1,7 @@
-# Microsoft Intune App Wrapping Tool for macOS
+# Microsoft Intune App Wrapping Tool for macOS (deprecated)
+
+Note:  The App Wrapping Tool for macOS is no longer supported and will be removed from this repository soon. Additional information on deploying macOS line-of-business apps with Intune is available at [How to add macOS line-of-business (LOB) apps to Microsoft Intune](https://docs.microsoft.com/en-us/mem/intune/apps/lob-apps-macos)
+
 Manage macOS line-of-business apps with Intune
 
 [Version 1.2](https://github.com/msintuneappsdk/intune-app-wrapping-tool-mac/releases/tag/v1.2)
